@@ -26,5 +26,5 @@ git checkout learning
 ```
 
 * 注：本仓库的分支有两个，一个为main分支（用于代码编写时的提交），一个为learning分支（学习代码的分支）
-
+* 其他操作见[git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 * **以上操作均可以在`Android studio`中实现**
