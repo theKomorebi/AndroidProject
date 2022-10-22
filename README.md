@@ -1,3 +1,6 @@
 # AndroidProject
 
-* BUAA_Android大作业，实现一个外卖派送系统
+* 学习代码，并写注释供其他人阅读
+## git操作
+* 首先将该文件`git clone`下来
+
